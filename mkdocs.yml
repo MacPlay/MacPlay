@@ -1,0 +1,31 @@
+site_name: MacPlay
+theme_dir: 'zencode'
+pages:
+- 首页: 'index.md'
+- OS X 技巧:
+    - 'Web Clip & Shared Links - OS X 轻量级的信息订阅工具': 'osx-tips/web-clip-and-shared-links.md'
+    - '一行命令搞定 App Switcher 截图': 'osx-tips/one-command-for-app-switcher-screenshot.md'
+    - '使用 AppleScript 实现信息批量发送功能': 'osx-tips/imessage-flood-attack.md'
+    - '使用 leanote 开发版便携傻瓜包': 'osx-tips/leanote-portable-package.md'
+    - '使用 Pages 制作 ePub 格式的电子书': 'osx-tips/make-ebooks-using-pages.md'
+    - '使用 U 盘制作 OS X Yesemite 启动盘': 'osx-tips/how-to-make-os-x-yesemite-bootable-disk.md'
+    - '制作和更换 OS X 应用程序图标': 'osx-tips/how-to-make-os-x-icns.md'
+    - '如何解压 OS X 下的 PKG 文件': 'osx-tips/extract-mac-pkg-content.md'
+    - '快速输入 OS X 文件路径': 'osx-tips/how-to-input-filepath-really-fast.md'
+    - '截图这件小事：使用 AppleScript 增强系统截图功能': 'osx-tips/small-things-about-screenshot.md'
+- 酷软心得:
+    - 'AppleScript － 使用 ImageMagick 进行图像处理': 'cool-software/applescript-package-for-imagemagick-image-processor.md'
+    - '打造属于自己的多功能剪贴板 ClipMenu': 'cool-software/create-your-own-multiple-clipboard-clipmenu.md'
+    - '被忽略的国产精品 – 简洁纯粹的 Foxit MobilePDF 阅读器': 'cool-software/foxit-pdf-simple-and-pure-pdf-reader.md'
+    - '近乎完美的 Markdown 写作体验 - Sublime Text 3 + OmniMarkupPreviewer': 'cool-software/perfect-markdown-writing-experience-from-st3.md'
+- 关于我: 'about-me.md'
+markdown_extensions:
+    - extra
+    - smarty
+    - admonition
+    - meta
+    - smarty
+    - toc
+site_description: 分享关于 Mac、iOS 的一切
+site_author: ashfinal
+copyright: Copyright &copy; 2016 <a href="http://weibo.com/ashfinal/">MacPlay</a>. &nbsp;All Rights Reserved.
