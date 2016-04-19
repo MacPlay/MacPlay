@@ -37,6 +37,17 @@
             ga('send', 'pageview');
         </script>
         {% endif %}
+
+        <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?4a4c1c78fd858c142bbb45cc72f1a679";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+
     </head>
 
     <body{% if current_page and current_page.is_homepage %} class="homepage"{% endif %}>
@@ -46,7 +57,15 @@
         <div class="container">
             {% block content %}
                 <div class="col-md-3">{% include "toc.html" %}</div>
-                <div class="col-md-9" role="main">{% include "content.html" %}</div>
+                <div class="col-md-9" role="main">{% include "content.html" %}
+
+                    <!-- UY BEGIN -->
+                    <hr>
+                    <div id="uyan_frame"></div>
+                    <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2096303"></script>
+                    <!-- UY END -->
+
+                </div>
             {% endblock %}
         </div>
 
