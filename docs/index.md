@@ -1,5 +1,11 @@
 <!-- ## 近期更新文章 -->
 
+### [分享我的 vimrc 配置文件](cool-software/share-my-dot-vimrc-config.md)
+
+!!! warning ""
+
+    分享一下我的 vimrc 配置文件，直接下载放置到主目录下就可以使用。你也可以直接在线浏览，然后 copy 其中觉得有用的配置。该配置部分参考了许多网络上知名不知名的分支版本，并进行了大胆的修改和补充。集百家之所长，功能强大使用顺手。
+
 ### [近乎完美的 Markdown 写作体验 - Sublime Text 3 + OmniMarkupPreviewer](cool-software/perfect-markdown-writing-experience-from-st3.md)
 
 !!! warning ""
