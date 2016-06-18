@@ -1,6 +1,6 @@
 <!-- ## 近期更新文章 -->
 
-### [asciinema - 更炫酷地记录和分享命令行操作](cool-software/add-asciinema-support-for-blog.md)
+### [asciinema - 更炫酷地记录和分享终端操作](cool-software/add-asciinema-support-for-blog.md)
 
 !!! warning ""
 
