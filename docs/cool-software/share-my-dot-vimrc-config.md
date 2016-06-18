@@ -19,7 +19,7 @@
 
 **6月3日更新**:短地址服务不稳定停止解析了，还是使用原链吧：
 
-    `curl -Lo ~/.vimrc https://raw.githubusercontent.com/ashfinal/vimrc-config/master/.vimrc`
+    curl -Lo ~/.vimrc https://raw.githubusercontent.com/ashfinal/vimrc-config/master/.vimrc
 
 该操作应该会在 5 秒内完成，然后你就可以使用了！。
 
