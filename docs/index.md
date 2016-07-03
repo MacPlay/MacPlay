@@ -1,5 +1,12 @@
 <!-- ## 近期更新文章 -->
 
+### [Mac 上使用 re-vim 配置的详细步骤](cool-software/start-using-re-vim-config.md)
+
+!!! warning ""
+
+    使用 asciinema 详细录制了 Mac 上如何使用 re-vim 配置。涉及到 re-vim 30秒快速部署、使用 brew 编译 vim、个性化定制 re-vim 等。录屏过程中展示了 re-vim 的部分功能，以及使用 re-vim 的一些注意事项。
+
+
 ### [asciinema - 更炫酷地记录和分享终端操作](cool-software/add-asciinema-support-for-blog.md)
 
 !!! warning ""

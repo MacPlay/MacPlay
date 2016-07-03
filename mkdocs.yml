@@ -20,6 +20,7 @@ pages:
     - '近乎完美的 Markdown 写作体验 - Sublime Text 3 + OmniMarkupPreviewer': 'cool-software/perfect-markdown-writing-experience-from-st3.md'
     - '分享我的 vimrc 配置文件': 'cool-software/share-my-dot-vimrc-config.md'
     - 'asciinema - 更炫酷地记录和分享终端操作': 'cool-software/add-asciinema-support-for-blog.md'
+    - 'Mac 上使用 re-vim 配置的详细步骤': 'cool-software/start-using-re-vim-config.md'
 - 关于我: 'about-me.md'
 markdown_extensions:
     - extra
