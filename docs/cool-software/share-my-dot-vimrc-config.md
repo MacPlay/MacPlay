@@ -67,7 +67,7 @@
 
 | Key                  |      Mode      | Action                  |
 |:---------------------|:--------------:|:------------------------|
-| `<CR>`               |     Normal     | 取消搜索高亮            |
+| `<BS>`               |     Normal     | 取消搜索高亮            |
 | `yo`                 |     Normal     | YankOnce 设置 paste 模式|
 | `<Tab>`              |     Normal     | 跳转到下一个缓冲区      |
 | `<Shift>` + `<Tab>`  |     Normal     | 跳转到上一个缓冲区      |
