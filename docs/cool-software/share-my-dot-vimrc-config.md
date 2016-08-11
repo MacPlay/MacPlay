@@ -25,6 +25,7 @@
 
 如果你想要体验更多功能，请安装内置插件。插件管理器使用了 [vim-plug](https://github.com/junegunn/vim-plug), 你可以通过执行 `PlugInstall` 来进行安装。得益于 [vim-plug](https://github.com/junegunn/vim-plug)  的多线程特性，这一操作应该会在 30 秒内完成。
 
+![主题](../img/theme-toggle.png)
 ![截图](../img/20160513-145357.png)
 
 你也可以直接在线浏览[.vimrc](../attachment/vimrc.html)，然后 copy 其中觉得有用的配置。
@@ -50,6 +51,7 @@
 - [vim-easymotion][vim-easymotion] - 快速定位移动
 - [ctrlp.vim][ctrlp.vim] - 缓冲区、最近打开文件等的模糊搜索
 - [vim-colors-pencil][vim-colors-pencil] - iA Writer 颜色主题
+- [vim-colors-paper][vim-colors-paper] - Material Design 颜色主题
 
 ## 按键
 
@@ -151,7 +153,7 @@ re-vim 配置参考了部分网络资料。比如 [spf13-vim](https://github.com
 
 [delimitMate]:https://github.com/Raimondi/delimitMate "https://github.com/Raimondi/delimitMate"
 [neocomplete]:https://github.com/Shougo/neocomplete.vim "https://github.com/Shougo/neocomplete.vim"
-[vim-align]:https://github.com/tsaleh/vim-align "https://github.com/tsaleh/vim-align"
+[vim-align]:https://github.com/ashfinal/vim-align "https://github.com/ashfinal/vim-align"
 [YankRing.vim]:https://github.com/vim-scripts/YankRing.vim "https://github.com/vim-scripts/YankRing.vim"
 [goyo.vim]:https://github.com/junegunn/goyo.vim "https://github.com/junegunn/goyo.vim"
 [limelight.vim]:https://github.com/junegunn/limelight.vim "https://github.com/junegunn/limelight.vim"
@@ -168,3 +170,4 @@ re-vim 配置参考了部分网络资料。比如 [spf13-vim](https://github.com
 [vim-easymotion]:https://github.com/Lokaltog/vim-easymotion "https://github.com/Lokaltog/vim-easymotion"
 [ctrlp.vim]:https://github.com/ctrlpvim/ctrlp.vim "https://github.com/ctrlpvim/ctrlp.vim"
 [vim-colors-pencil]:https://github.com/reedes/vim-colors-pencil "https://github.com/reedes/vim-colors-pencil"
+[vim-colors-paper]:https://github.com/ashfinal/vim-colors-paper "https://github.com/ashfinal/vim-colors-paper"
