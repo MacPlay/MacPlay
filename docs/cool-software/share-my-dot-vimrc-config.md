@@ -15,13 +15,15 @@
 
 如果你在使用 Mac 或者 Linux，终端里输入以下命令：
 
-    curl -Lo ~/.vimrc http://jump.im/re
+    curl -Lo ~/.vimrc https://j.mp/re-vim
 
-**6月3日更新**:短地址服务不稳定停止解析了，还是使用原链吧：
-
-    curl -Lo ~/.vimrc https://raw.githubusercontent.com/ashfinal/vimrc-config/master/.vimrc
+注意到短地址的使用了嘛？这主要是为了方便新机器或者服务器，条件受限的情况下可以记忆并手动输入以上命令。(●'◡'●)
 
 该操作应该会在 5 秒内完成，然后你就可以使用了！。
+
+这里有个录屏，方便你更直观的了解 re-vim：
+
+[Mac 上使用 re-vim 配置的详细步骤](http://macplay.github.io/cool-software/start-using-re-vim-config/)
 
 如果你想要体验更多功能，请安装内置插件。插件管理器使用了 [vim-plug](https://github.com/junegunn/vim-plug), 你可以通过执行 `PlugInstall` 来进行安装。得益于 [vim-plug](https://github.com/junegunn/vim-plug)  的多线程特性，这一操作应该会在 30 秒内完成。
 
@@ -146,7 +148,7 @@ re-vim 使用 `~/.vimrc.before` 和 `~/.vimrc.after` 来满足定制化需求。
 
 比如想要修改默认的颜色主题：
 
-    echo "colorscheme solarized" >> ~/.vimrc.after
+    echo "colorscheme paper" >> ~/.vimrc.after
 
 想要添加新的插件，你应该创建 `~/.vimrc.plug` 文件：
 
